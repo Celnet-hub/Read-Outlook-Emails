@@ -1,7 +1,6 @@
 import win32com.client
 import ctypes  # for the VM_QUIT to stop PumpMessage()
 import pythoncom
-import re
 import time
 import psutil
 import requests
